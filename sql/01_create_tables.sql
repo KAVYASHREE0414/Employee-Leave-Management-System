@@ -1,0 +1,1 @@
+create table departments(department_id int primary key,department_name varchar(23) Not null);
